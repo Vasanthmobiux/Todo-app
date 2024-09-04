@@ -6,4 +6,5 @@ export type todoList = {
   id: number;
   text: string;
   isDone: boolean;
+  isChecked: boolean;
 };
