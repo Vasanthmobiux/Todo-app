@@ -44,8 +44,6 @@ export default function Home() {
     });
 
     setTodoList(updatedTodoList);
-
-    let t;
   };
   return (
     <>
